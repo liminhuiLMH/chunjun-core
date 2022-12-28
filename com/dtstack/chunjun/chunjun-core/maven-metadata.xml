@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dtstack.chunjun</groupId>
+  <artifactId>chunjun-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.12-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221208063915</lastUpdated>
+  </versioning>
+</metadata>
